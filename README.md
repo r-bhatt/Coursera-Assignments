@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
-[Link](https://r-bhatt.github.io/Coursera-Assignments/Assignment1)
-[Link](https://r-bhatt.github.io/Coursera-Assignments/Assignment2)
+[Page1](https://r-bhatt.github.io/Coursera-Assignments/Assignment1)
+
+[Page2](https://r-bhatt.github.io/Coursera-Assignments/Assignment2)
 
 You can use the [editor on GitHub](https://github.com/r-bhatt/Coursera-Assignments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

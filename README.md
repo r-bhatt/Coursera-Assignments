@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+[Link](https://r-bhatt.github.io/Coursera-Assignments/Assignment1)
+[Link](https://r-bhatt.github.io/Coursera-Assignments/Assignment2)
+
 You can use the [editor on GitHub](https://github.com/r-bhatt/Coursera-Assignments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
